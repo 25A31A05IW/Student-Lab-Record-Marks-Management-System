@@ -92,7 +92,7 @@ int main() {
             }
         }
 
-        // 👉 Continue / Exit option
+        // Continue / Exit option
         cout << "\nPress 1 to Continue or 0 to Exit: ";
         cin >> cont;
 
